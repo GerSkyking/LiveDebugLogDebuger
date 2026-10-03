@@ -1,0 +1,48 @@
+{
+  "current_profile": "Default",
+  "profiles": {
+    "Default": {
+      "geometry": "2617x800+3523+658",
+      "sash_positions": [
+        1115,
+        1743
+      ],
+      "entries": [
+        {
+          "path": "C:/Users/Sky/Documents/My Games/ArmaReforgerWorkbench/logs",
+          "name": "WB Server",
+          "filter": "",
+          "search": "",
+          "paused": false
+        },
+        {
+          "path": "C:/Users/Sky/Documents/My Games/PeerPlugin2/logs",
+          "name": "c2",
+          "filter": "",
+          "search": "",
+          "paused": false
+        },
+        {
+          "path": "C:/Users/Sky/Documents/My Games/PeerPlugin1/logs",
+          "name": "c1",
+          "filter": "",
+          "search": "",
+          "paused": false
+        }
+      ]
+    },
+    "Client": {
+      "geometry": "2152x800+3340+231",
+      "sash_positions": [],
+      "entries": [
+        {
+          "path": "C:/Users/Sky/Documents/My Games/ArmaReforger/logs",
+          "name": "Client 1",
+          "filter": "",
+          "search": "",
+          "paused": false
+        }
+      ]
+    }
+  }
+}
