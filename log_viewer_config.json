@@ -2,7 +2,7 @@
   "current_profile": "Default",
   "profiles": {
     "Default": {
-      "geometry": "2617x800+3523+658",
+      "geometry": "2617x800+3454+817",
       "sash_positions": [
         1115,
         1743
@@ -40,7 +40,7 @@
           "name": "Client 1",
           "filter": "",
           "search": "",
-          "paused": false
+          "paused": true
         }
       ]
     }
